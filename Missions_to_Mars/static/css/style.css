@@ -1,0 +1,21 @@
+.isi {
+    font-size: 25%;
+    font-family: verdana;
+    border-color: black;}
+
+.container-fluid{
+    font-size: 25%;
+    font-family: verdana;
+}
+
+.table-bordered{
+    border-color: black;
+}
+
+h2{
+    font-size: 25%;
+}
+
+h3{
+    font-size: 25%;
+}
